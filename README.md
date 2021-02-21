@@ -1,13 +1,6 @@
 # MarketBasketAnalysis
 MBA with PySpark
 
-<p align="center">
-  <a>
-    <img src="https://en.wikipedia.org/wiki/Affinity_analysis#/media/File:AffinityAnalysis.png" width="600" height="300">
-  </a>
-</p>
-
-
 ## Theory of Apriori Algorithm
 - https://en.wikipedia.org/wiki/Association_rule_learning
 - https://en.wikipedia.org/wiki/Apriori_algorithm
